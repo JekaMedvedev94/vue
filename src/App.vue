@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <div></div>
+  <div>
+    {{ new Date() }}
+  </div>
 </template>
